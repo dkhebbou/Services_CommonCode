@@ -1,0 +1,12 @@
+C:\Users\HP\Desktop\workspace\FirstMicroservicesDotNet\Play.CommonCode\src\Play.CommonCode\bin\Debug\net5.0\Play.CommonCode.deps.json
+C:\Users\HP\Desktop\workspace\FirstMicroservicesDotNet\Play.CommonCode\src\Play.CommonCode\bin\Debug\net5.0\Play.CommonCode.dll
+C:\Users\HP\Desktop\workspace\FirstMicroservicesDotNet\Play.CommonCode\src\Play.CommonCode\bin\Debug\net5.0\Play.CommonCode.pdb
+C:\Users\HP\Desktop\workspace\FirstMicroservicesDotNet\Play.CommonCode\src\Play.CommonCode\obj\Debug\net5.0\Play.CommonCode.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\workspace\FirstMicroservicesDotNet\Play.CommonCode\src\Play.CommonCode\obj\Debug\net5.0\Play.CommonCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\workspace\FirstMicroservicesDotNet\Play.CommonCode\src\Play.CommonCode\obj\Debug\net5.0\Play.CommonCode.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\workspace\FirstMicroservicesDotNet\Play.CommonCode\src\Play.CommonCode\obj\Debug\net5.0\Play.CommonCode.AssemblyInfo.cs
+C:\Users\HP\Desktop\workspace\FirstMicroservicesDotNet\Play.CommonCode\src\Play.CommonCode\obj\Debug\net5.0\Play.CommonCode.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\workspace\FirstMicroservicesDotNet\Play.CommonCode\src\Play.CommonCode\obj\Debug\net5.0\Play.CommonCode.dll
+C:\Users\HP\Desktop\workspace\FirstMicroservicesDotNet\Play.CommonCode\src\Play.CommonCode\obj\Debug\net5.0\refint\Play.CommonCode.dll
+C:\Users\HP\Desktop\workspace\FirstMicroservicesDotNet\Play.CommonCode\src\Play.CommonCode\obj\Debug\net5.0\Play.CommonCode.pdb
+C:\Users\HP\Desktop\workspace\FirstMicroservicesDotNet\Play.CommonCode\src\Play.CommonCode\obj\Debug\net5.0\ref\Play.CommonCode.dll
